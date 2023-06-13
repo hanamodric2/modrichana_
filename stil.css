@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+            font-family: Arial, sans-serif;
+	        background-image: url("pozadina2a.jpeg");
+            color: #333;
+            margin: 0px;
+            padding: 200px;
+            align-items: center;
+            justify-content: center;
+            height: 10vh;
+            text-align: center;
+        }
+p{  
+	background-image:url("pozadina2a.jpeg");
+	color: cadetblue;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	background-color: gainsboro;
+	padding: 20px;
+	
+}
+h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: blueviolet
+}
+h1{
+	font-family: HanaModric_novo;
+	color: blueviolet;
+	font-size: 40px
+}
+li{
+	display: inline-table;
+	background-color: gainsboro;
+	padding: 20px;
+	text-transform:uppercase;
+	color: aliceblue;
+	text-decoration: none;
+}
+img{
+	height: 300px
+}
+video{
+	height: 300px
+}
+.videopoz{
+	background-image:url("pozadina.avif")
+	
+}
+.link{
+	display: inline-table;
+	padding: 40;
+	text-transform: uppercase;
+	color: aliceblue;
+	text-decoration: none;
+	background-image: url()
+	
+}
+
+
+
+
+
+.vjezbepoz{
+	background-image:url("pozadina.avif")
+}
+
+
+.link2{
+	display: inline-table;
+	padding: 40px;
+	color: aliceblue;
+	text-decoration: none;
+	background-image: url()
+}
+.omeni{
+	background-image:url("pozadina.avif")
+}
+.link3{
+	display: inline-table;
+	padding: 40;
+	text-transform: uppercase;
+	color: aliceblue;
+	text-decoration: none;
+	background-image: url()
+}
+.link4{
+	display: inline-table;
+	padding: 40;
+	text-transform: uppercase;
+	color: aliceblue;
+	text-decoration: none;
+	
+}
+
+@font-face{
+	font-family: HanaModric_novo;
+	src:url("DM/HanaModric_novo.ttf");
+}
+
+
